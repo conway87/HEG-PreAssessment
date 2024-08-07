@@ -1,0 +1,61 @@
+﻿Category,Evid
+Security State Change,"4608, 4609, 4616"
+Other Logon/Logoff Events,"4649, 4778, 4779, 4800, 4801, 4802, 4803, 4825, 5632, 5633, 5378"
+Distribution Group Management,"4749, 4750, 4751, 4752, 4753, 4759, 4760, 4761, 4762, 4763, 4744, 4745, 4746, 4747, 4748"
+Other Account Management Events,"4782, 4793"
+Central Policy Staging,4818
+Logon,"4624, 4648, 4675, 4625"
+File System,"4656, 4658, 4660, 4663, 4664, 4985, 4670, 4656"
+User / Device Claims,4626
+Filtering Platform Packet Drop,"5153, 5152, 5146, 5147"
+Other Privilege Use Events,4985
+Logoff,"4634, 4647"
+Filtering Platform Policy Change,"4709, 4710, 4711, 5040, 5041, 5042, 5043, 5044, 5045, 5046, 5047, 5048, 5440, 5441, 5442, 5443, 5444, 5446, 5448, 5449, 5450, 5456, 5458, 5460, 5463, 5464, 5465, 5468, 5471, 5473"
+Special Logon,"4964, 4672"
+Application Group Management,"4783, 4784, 4785, 4786, 4788, 4789, 4790, 4791, 4792"
+Other Account Logon Events,N/A
+Other Object Access Events,"4691, 4662, 4698, 4699, 4700, 4701, 4702, 5888, 5889, 5890, 5148, 5149"
+Application Generated,"4665, 4666, 4667, 4668"
+SAM,4661
+Group Membership,4627
+IPsec Driver,"4960, 4961, 4962, 4963, 4965, 5478, 5479"
+System Integrity,"4612,4615, 4618, 4816, 5056, 5062, 6417, 5061, 5038, 5057, 5060, 5061, 6281, 6418, 6410"
+Kerberos Authentication Service,"4768, 4771, 4772, 4820, 4824"
+Detailed File Share,5145
+Directory Service Access,"4662, 4661"
+Audit Policy Change,"4715, 4719, 4817, 4902, 4904, 4905, 4906, 4907, 4908, 4912"
+Authorization Policy Change,"4703, 4704, 4705, 4670, 4911, 4913"
+Other Policy Change Events,"4714, 4819, 4826, 5063, 5064, 5065, 5066, 5067, 5068, 5069, 5070, 5447, 6144, 6145, 5063, 5064, 5065, 5066, 5067, 5068, 5069, 5070"
+File Share,"5140, 5142, 5143, 5144, 5140, 5168"
+Computer Account Management,"4741, 4742, 4743"
+Token Right Adjusted Events,4703
+Account Lockout,4625
+Authentication Policy Change,"4670, 4706, 4707, 4716, 4713, 4717, 4718, 4739, 4864, 4865, 4866, 4867"
+Process Termination,4689
+IPsec Quick Mode,"4977, 5451, 5452, 4654"
+Detailed Directory Service Replication,"4928, 4929, 4930, 4931, 4934, 4936, 4937, 4928, 4929, 4930, 4931, 4935"
+Kernel Object,"4656, 4658, 4659, 4660, 4663, 4656"
+Process Creation,"4688, 4696"
+Category/Subcategory,
+Security Group Management,"4731, 4732, 4733, 4734, 4735, 4764, 4799, 4727, 4728, 4729, 4730, 4737, 4754, 4756, 4757, 4758, 4755"
+Directory Service Replication,"4932, 4933"
+Security System Extension,"4610, 4611, 4614, 4622, 4697"
+Handle Manipulation,"4658, 4690"
+Other System Events,"5024, 5025, 5033, 5034, 5058, 5059, 5027, 5028, 5029, 5030, 5032, 5035, 5037, 5050, 5071, 5058, 5059, 6400, 6401, 6402, 6403, 6404, 6405, 6406, 6407, 6408, 6409, 8191"
+RPC Events,5712
+DPAPI Activity,"4692, 4693, 4694, 4695, 4692, 4693, 4694, 4695"
+User Account Management,"4720, 4722, 4723, 4724, 4725, 4726, 4738, 4740, 4765, 4767, 4780, 4781, 4794, 4797, 4798, 4830, 5376, 5377, 5379, 5380, 5381, 5382, 4723, 4724, 4766, 4794"
+IPsec Extended Mode,"4978, 4979, 4980, 4981, 4982, 4983, 4984"
+Removable Storage,"4656, 4658, 4663"
+Plug and Play Events,"6416, 6419, 6420, 6421, 6422, 6423, 6424"
+Network Policy Server,"6272, 6273, 6274, 6275, 6276, 6277, 6278, 6279, 6280"
+Sensitive Privilege Use,"4673, 4674, 4985, 4673, 4674"
+Non Sensitive Privilege Use,"4673, 4674, 4985, 4673, 4674"
+Directory Service Changes,"5136, 5137, 5138, 5139, 5141, 5169, 5170"
+Registry,"4663, 4656, 4658, 4660, 4657, 4670, 5039"
+Certification Services,"4868, 4869, 4870, 4871, 4872, 4873, 4874, 4875, 4876, 4877, 4878, 4879, 4880, 4881, 4882, 4883, 4884, 4885, 4886, 4887, 4888, 4889, 4890, 4891, 4892, 4893, 4894, 4895, 4896, 4897, 4898, 4899, 4900"
+Credential Validation,"4774, 4776, 4775, 4777, 4822, 4823"
+MPSSVC Rule,"4944, 4945, 4946, 4947, 4948, 4949, 4950, 4954, 4956, 4951, 4952, 4953, 4957, 4958"
+IPsec Main Mode,"4646, 4650, 4651, 4655, 4976, 5049, 5453, 4652, 4653"
+Filtering Platform Connection,"5154, 5156, 5158, 5031, 5155, 5157, 5159, 5150, 5151"
+Kerberos Service Ticket Operations,"4769, 4770, 4773, 4821"
