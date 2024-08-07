@@ -16,3 +16,13 @@ Run HEG-PreAssessment on your system before using **[HEG](https://github.com/con
 - ✅ Get detailed list of EventIDs and the associated event, see which ones your system can and cannot produce.
 - 🕵️‍♂️ Know precisely which logs you are eligible for. 
 - ⚠️ No log generated - means no log to SIEM - means no detection! ⚠️
+
+<br>
+
+## Getting Started
+
+Quick start:
+   
+    * Download and extract repo
+    * Launch PowerShell as admin
+    * Locate and run `HEG-PA.ps1`
